@@ -1,6 +1,11 @@
 # LOL-Auto-Level-Presets-Generator
 Generates Auto-Level Presets
 
+Requirements:
+
+- Node.js
+- https://www.npmjs.com/package/follow-redirects
+
 How To:
 
 1. Add missing champs to the list.
