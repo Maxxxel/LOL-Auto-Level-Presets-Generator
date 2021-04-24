@@ -13,7 +13,8 @@ How To:
 3. Check the resulting ```levelPresets.lua```
 4. There may be some corrupted data (Kha'Zix, Kai'Sa) ==> They need to be manually made (i'm to lazy for a fix).
 5. Least i can do for you is copy the links here:
- - https://www.leagueofgraphs.com/champions/skills-orders/kaisa/platinum/sr-ranked
- - https://www.leagueofgraphs.com/champions/skills-orders/khazix/platinum/sr-ranked
+- https://www.leagueofgraphs.com/champions/skills-orders/kaisa/platinum/sr-ranked
+- https://www.leagueofgraphs.com/champions/skills-orders/khazix/platinum/sr-ranked
+6. Just search the pair with highest winrate/popularity and set the presets in the file.
 
 
