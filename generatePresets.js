@@ -38,6 +38,7 @@ var champions = [
 	"Gnar",
 	"Gragas",
 	"Graves",
+	"Gwen",
 	"Hecarim",
 	"Heimerdinger",
 	"Illaoi",
